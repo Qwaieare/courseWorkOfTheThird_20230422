@@ -1,0 +1,26 @@
+[
+  {
+    "socks": {
+      "colorSocks": "BLACK",
+      "sizeSocks": "N23",
+      "cottonPart": 20
+    },
+    "quantity": 20
+  },
+  {
+    "socks": {
+      "colorSocks": "WHITE",
+      "sizeSocks": "N23",
+      "cottonPart": 10
+    },
+    "quantity": 50
+  },
+  {
+    "socks": {
+      "colorSocks": "BLACK",
+      "sizeSocks": "N23",
+      "cottonPart": 20
+    },
+    "quantity": 20
+  }
+]
